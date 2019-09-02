@@ -1,4 +1,4 @@
-[
+{
 	"data": [
 		{"id":"0","width":150,"height":200,"url":"https://unsplash.com/photos/yC-Yzbqy7PY","download_url":"https://picsum.photos/id/0/150/200"},
 		{"id":"1","width":150,"height":200,"url":"https://unsplash.com/photos/LNRyGwIJr5c","download_url":"https://picsum.photos/id/1/150/200"},
@@ -7,4 +7,4 @@
 		{"id":"1000","width":150,"height":200,"url":"https://unsplash.com/photos/6cY-FvMlmkQ","download_url":"https://picsum.photos/id/1000/150/200"},
 		{"id":"1001","width":150,"height":200,"url":"https://unsplash.com/photos/1DkWWN1dr-s","download_url":"https://picsum.photos/id/1001/150/200"}
 	]
-]
+}
